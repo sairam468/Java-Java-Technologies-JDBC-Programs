@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename resource &apos;Bank_Application__SBI_Net_banking&apos; to &apos;JDBC_Bank_Application_Using_JDBC_And_DB&apos;" description="Rename resource &apos;Bank_Application__SBI_Net_banking&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Bank_Application__SBI_Net_banking" name="JDBC_Bank_Application_Using_JDBC_And_DB" stamp="1727155177556" updateReferences="true"/>
-</session>
